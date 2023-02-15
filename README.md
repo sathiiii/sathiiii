@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sathira Silva</h1>
 <h3 align="center">A passionate [Freelancer, Developer] from Sri Lanka</h3>
 
-- 👯 I’m looking to collaborate / help on **Computer Vision / ML / DL / Natural Language Processing related projects**
+<!-- - 👯 I’m looking to collaborate / help on **Computer Vision / ML / DL / Natural Language Processing related projects** -->
 
 - 👨‍💻 All of my projects are available at [https://sathiiii.github.io/projects/](https://sathiiii.github.io/projects/)
 
-- 📝 I regularly write articles on [https://sathiiii.github.io/blog/](https://sathiiii.github.io/blog/)
+<!-- - 📝 I regularly write articles on [https://sathiiii.github.io/blog/](https://sathiiii.github.io/blog/) -->
 
 - 📫 How to reach me **sathirasofte@gmail.com**
 
