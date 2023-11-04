@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sathirasofte@gmail.com**
 
-- 📄 Know about my experiences [https://sathiiii.github.io/assets/docs/Sathira_Silva_CV.pdf](https://sathiiii.github.io/assets/docs/Sathira_Silva_CV.pdf)
+- 📄 Know about my experiences [https://sathiiii.github.io/assets/docs/Sathira_Silva_CV_latest.pdf](https://sathiiii.github.io/assets/docs/Sathira_Silva_CV_latest.pdf)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
