@@ -24,4 +24,4 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sathiiii&" alt="sathiiii" /></p>
 
-<img align="center" src="https://projecteuler.net/profile/sathira_silva.png" />
+<p align="center"><img align="center" src="https://projecteuler.net/profile/sathira_silva.png" /></p>
