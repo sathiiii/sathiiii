@@ -1,27 +1,41 @@
-<h1 align="center">Hi 👋, I'm Sathira Silva</h1>
-<h3 align="center">A passionate [Freelancer, Computer Engineer] from Sri Lanka</h3>
-
-👯 I’m looking to collaborate on **Computer Vision / ML / DL / Natural Language Processing related research projects**
-
-- 👨‍💻 All of my projects are available at [https://sathiiii.github.io/projects/](https://sathiiii.github.io/projects/)
-
-<!-- - 📝 I regularly write articles on [https://sathiiii.github.io/blog/](https://sathiiii.github.io/blog/) -->
-
-- 📫 How to reach me **sathirasofte@gmail.com**
-
-- 📄 Know about my experiences [https://sathiiii.github.io/assets/docs/Sathira_Silva_CV_latest.pdf](https://sathiiii.github.io/assets/docs/Sathira_Silva_CV_latest.pdf)
-
-<h3 align="center">Connect with me:</h3>
+<h1 align="center">Hi, I'm Sathira Silva</h1>
 <p align="center">
-<a href="https://twitter.com/sathirasilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sathirasilva" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sathira-silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sathira-silva" height="30" width="40" /></a>
-<a href="https://fb.com/sathiiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sathiiii" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sathiiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sathiiii" height="30" width="40" /></a>
+  Research Engineer, Computer Vision @ MBZUAI · Abu Dhabi, UAE
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://sathiiii.github.io/">Website</a> ·
+  <a href="https://scholar.google.com/citations?hl=en&user=3ZiP8OYAAAAJ">Google Scholar</a> ·
+  <a href="https://www.linkedin.com/in/sathira-silva/">LinkedIn</a> ·
+  <a href="https://twitter.com/sathirasilva">X</a>
+</p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sathiiii&" alt="sathiiii" /></p>
+---
 
-<p align="center"><img align="center" src="https://projecteuler.net/profile/sathira_silva.png" /></p>
+### About
+I’m a Research Engineer at **MBZUAI (Computer Vision)**.  
+My work focuses on **vision-language learning** and **temporal / spatiotemporal understanding**, with recent projects spanning **VLM adaptation** and **3D scene understanding**.
+
+I enjoy building research codebases that are readable, reproducible, and easy to extend.
+
+### Research interests
+- Vision-Language Models (VLMs), large-scale multimodal learning
+- Temporal understanding, spatiotemporal representation learning
+- Self-supervised learning
+- 3D perception for autonomous systems
+
+### Selected work
+- **microCLIP**: Unsupervised CLIP adaptation for fine-grained image classification  
+  Repo: https://github.com/sathiiii/microCLIP
+- **DPA**: Dual Prototypes Alignment for unsupervised adaptation of VLMs  
+  Repo: https://github.com/sathiiii/DPA
+- **S2TPVFormer**: Spatiotemporal tri-perspective view for 3D semantic occupancy prediction  
+  Repo: https://github.com/cepdnaclk/e17-4yp-S2TPVFormer
+
+### Projects and CV
+- Projects: https://sathiiii.github.io/projects/
+- CV: https://sathiiii.github.io/assets/docs/Sathira_Silva_CV_latest.pdf
+
+### Contact
+- Email: sathira.silva@mbzuai.ac.ae
+- Personal: sathirasofte@gmail.com
